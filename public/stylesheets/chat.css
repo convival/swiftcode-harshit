@@ -7,11 +7,15 @@ body {
 }
 
 #message-pane {
-    background-color: #00aaff;
+    background-image: url("https://cdn.dribbble.com/users/345826/screenshots/1836550/dots24.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center center;
 }
 
 #form-card {
     margin: 0px;
+    background-color: #7b12e5;
 }
 
 .material-icons {
